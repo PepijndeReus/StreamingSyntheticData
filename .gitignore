@@ -1,0 +1,5 @@
+# ignore python notebook cache files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.class
